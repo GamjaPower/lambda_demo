@@ -9,7 +9,7 @@ terraform {
     organization = "lkcdevteam"
 
     workspaces {
-      name = "lambda-demo"
+      name = "lambda_demo"
     }
   }
 }
